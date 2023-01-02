@@ -1,0 +1,29 @@
+.prinsipal{
+ width: 700px;
+ height: 370px;
+ margin: 10px 10px 50px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: rgb(4, 4, 107);
+ box-shadow: 0 3px 13px 1px rgb(0 0 0 /9%);
+}
+.imagen{
+ height: 70%;
+ width: 70%;
+ padding-left: 30px;
+}
+p{
+ margin-top: 18px;
+}
+.info{
+ width: auto;
+ height: 200px;
+ margin: 10px 10px 50px;
+ font-size: .5rem;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: #fff;
+ box-shadow: 0 3px 13px 1px rgb(0 0 0 /9%);
+}
